@@ -1,0 +1,8 @@
+.idea/
+.nuxt/
+node_modules/
+
+*.iml
+.DS_Store
+.env
+npm-debug.log
